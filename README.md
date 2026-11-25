@@ -33,10 +33,15 @@ product and revenue performance.
 
 ## 4. Project Structure
 
+## 4. Project Structure
+
 - datasets/ - Raw datasets
 - python_scripts/ - Python analysis scripts
 - reports/ - Generated reports
 - sql_scripts/ - SQL database scripts
+- screenshots/ - Project screenshots and outputs
+- README.md - Project documentation
+- requirements.txt - Python dependencies
 
 ## 5. Database Setup
 
@@ -64,8 +69,27 @@ Run the Python scripts from the project directory.
 
 ## 8. Sample Outputs
 
-Screenshots and analysis outputs will be
-added in the reports/ and screenshots/ folders.
+## 8. Project Screenshots
+
+### Database Structure
+![Database Tables](screenshots/database_tables.png)
+
+### SQL Analysis
+![SQL Query Results](screenshots/sql_query_results.png)
+
+![SQL Revenue Analysis](screenshots/sql_revenue_analysis.png)
+
+### Python and MySQL Integration
+![Python MySQL Connection](screenshots/python_mysql_connection.png)
+
+![Python Customer Records](screenshots/python_customer_records.png)
+
+![Python Total Revenue](screenshots/python_total_revenue.png)
+
+![Python Product Revenue](screenshots/python_product_revenue.png)
+
+### Data Visualization
+![Product Revenue Chart](screenshots/product_revenue_chart.png)
 
 ## 9. Security
 

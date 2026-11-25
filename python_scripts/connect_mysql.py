@@ -18,11 +18,8 @@ try:
 
     # 3. Retrieve customers
     print("\nCUSTOMER RECORDS")
-
     cursor.execute("SELECT * FROM customers")
-
     customers = cursor.fetchall()
-
     for customer in customers:
         print(customer)
 
