@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,status,order_item_id,product_id,quantity,unit_price,product_name,category,price,customer_name,email,city,revenue,month
+1,1,2026-10-01,Completed,1,1,1,55000,Laptop,Electronics,55000,Rahul,rahul@gmail.com,Hyderabad,55000,2026-10
+1,1,2026-10-01,Completed,2,2,2,800,Mouse,Electronics,800,Rahul,rahul@gmail.com,Hyderabad,1600,2026-10
+2,2,2026-10-03,Completed,3,3,1,4500,Chair,Furniture,4500,Priya,priya@gmail.com,Chennai,4500,2026-10
+3,1,2026-10-05,Cancelled,4,5,1,1500,Keyboard,Electronics,1500,Rahul,rahul@gmail.com,Hyderabad,1500,2026-10
+4,3,2026-10-10,Completed,5,4,5,100,Notebook,Stationery,100,Ananya,ananya@gmail.com,Unknown,500,2026-10
+5,4,2026-10-12,Pending,6,2,1,800,Mouse,Electronics,800,Kiran,kiran@gmail.com,Hyderabad,800,2026-10

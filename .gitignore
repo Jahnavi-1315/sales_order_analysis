@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Database credentials
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
